@@ -19,3 +19,6 @@ Planet X: New World Unveiling is a 2D space adventure game developed in C++ usin
 Programming Language: C++
 
 Graphics & Audio: SDL2 and its extensions (for rendering, image loading, and audio)
+
+Game Screeshots:
+
