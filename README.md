@@ -21,4 +21,4 @@ Programming Language: C++
 Graphics & Audio: SDL2 and its extensions (for rendering, image loading, and audio)
 
 Game Screeshots:
-
+[!Alt text](images/1.jpg)
