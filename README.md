@@ -20,6 +20,13 @@ Programming Language: C++
 
 Graphics & Audio: SDL2 and its extensions (for rendering, image loading, and audio)
 
-Game Screeshots:
+## 🎮 Game Screenshots
 
-![Game screeshot1](images/1.jpg)![Game screeshot2](images/2.jpg)![Game screeshot3](images/3.jpg)![Game screeshot4](images/4.jpg)![Game screeshot5](images/5.jpg)
+<p align="center">
+  <img src="images/1.jpg" alt="Game screenshot 1" width="200"/>
+  <img src="images/3.jpg" alt="Game screenshot 2" width="200"/>
+  <img src="images/4.jpg" alt="Game screenshot 3" width="200"/>
+  <img src="images/5.jpg" alt="Game screenshot 4" width="200"/>
+  <img src="images/2.jpg" alt="Game screenshot 5" width="200"/>
+</p>
+
